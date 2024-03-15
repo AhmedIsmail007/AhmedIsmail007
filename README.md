@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedismail007&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedismail007" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow, Keras, PyTorch,and about Autonomous Driving**
+- 🌱 I’m currently learning **TensorFlow, Keras, PyTorch, and Autonomous Driving stacks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedIsmail007](https://github.com/AhmedIsmail007)
 
