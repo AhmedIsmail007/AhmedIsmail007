@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **TensorFlow, Keras, PyTorch, and Autonomous Driving stacks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmedIsmail007](https://github.com/AhmedIsmail007)
-
 - 💬 Ask me about **Robotics and ML/DL**
 
 - 📫 How to reach me **ahmedismailosman251@gmail.com**
