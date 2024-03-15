@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ismail</h1>
-<h3 align="center">Mechatronics Engineer | Passionate About Software Development of Robotics and Self-Driving Cars</h3>
+<h3 align="center">Mechatronics Engineer | Passionate About AI, Robotics and Self-Driving Cars</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedismail007&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedismail007" /> </p>
 
